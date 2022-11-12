@@ -1,6 +1,6 @@
 # Spring-SpringMVC-Mybatis regular config
 
-To decrease the cumbersome config and facilitate the latter use, upload these usually config file.
+To decrease the cumbersome configuration and facilitate latter work, I upload these usually config files.
 
 Make sure your jdk-version is 17.
 
