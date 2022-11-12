@@ -1,12 +1,11 @@
-# Spring-SpringMVC-Mybatis regular config
+# Spring-SpringMVC-Mybatis common config
 
-To decrease the cumbersome config and facilitate the latter use, upload these usually config file.
+To decrease the cumbersome configuration and facilitate latter work, I upload these commonly used configuration files.
 
 Make sure your jdk-version is 17.
 
 ***configuration includes:***
 
-- genneratorConfig and its plug
 - alibaba druid datasource
 - spring milestone 6.0.0-M2
   - spring jdbc
@@ -19,4 +18,5 @@ Make sure your jdk-version is 17.
   - tomcat jsp 10.1.0
   - tomcat el api 10.1.0
 - junit 4.13.2
+- mybatis gennerator maven plug and its xml config
 - mysql connector java 8.0.30
