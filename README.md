@@ -1,4 +1,4 @@
-# Spring-SpringMVC-Mybatis common config
+# Spring-SpringMVC-Mybatis fundamental config
 
 To decrease the cumbersome configuration and facilitate latter work, I upload these usually config files.
 
